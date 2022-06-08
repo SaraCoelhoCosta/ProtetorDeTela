@@ -11,4 +11,4 @@
      - Padrão de projeto MVC.
 * 📆 **Data de Criação:** 25/05/2021.
 * :warning: **Status do Projeto:** Concluído. 
-* 📚 Adaptação do trabalho desenvolvido para a matéria de Linguagem de Programação II.
+
