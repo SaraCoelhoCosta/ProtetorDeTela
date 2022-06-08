@@ -9,6 +9,7 @@
      - Java; 
      - Swing; 
      - Padrão de projeto MVC.
+* 📚 Trabalho desenvolvido para a matéria de Linguagem de Programação 2.
 * 📆 **Data de Criação:** 25/05/2021.
 * :warning: **Status do Projeto:** Concluído. 
 
