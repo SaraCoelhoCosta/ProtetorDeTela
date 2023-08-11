@@ -20,8 +20,4 @@ public class ControleInicializaFrame {
 		frame.repaint();
 		frame.validate();
 	}
-
-	public static void main(String[] args) {
-		new ControleInicializaFrame();  // Inicia execução chamando o Frame.
-	}
 }
